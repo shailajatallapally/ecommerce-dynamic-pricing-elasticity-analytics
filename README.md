@@ -1,4 +1,4 @@
-# Apple_products_sql_project
+# E-commerce Dynamic Pricing and Elasicity Analytics
 ## Project Overview
 This project demonstrates SQL concepts using the Apple products pricing dataset in mySQL workbench.
 ## Dataset 
