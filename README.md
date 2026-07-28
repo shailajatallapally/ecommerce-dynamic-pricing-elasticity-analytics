@@ -33,5 +33,45 @@ The dataset contains Apple product information, including:
 -----
 ## Project structure
 ecommerce-dynamic-pricing-elasticity-analytics/
-- Data validation.ipynb 
+- 01_clean.ipynb
+- Data validation.ipynb
+- EDA Analysis.ipynb
+- apple-products_sql_project.sql
+- README.md
+-----
+## Workflow
+1. Data cleaning
+2. Data validation
+3. Exploratory dta analysis
+4. SQL analysis
+5. Business Insights
+-----
+SQL concepts Used
+- SELECT
+- WHERE
+- GROUPBY
+- ORDER BY
+- Aggregate Functions
+- CASE WHEN
+- Views
+- Window functions
+-----
+## Key Insights
+- Premium Apple products have higher average prices
+- Discounts vary across product categories
+- Product ratings help identify customer preferences
+- SQL KPIs support pricing and sales analysis.
+-----
+## Future Improvements
+- Build an interactive Power BI dashboard
+-----
+
+## Author
+**Shailaja Tallapally**
+
+Github:
+https://github.com/shailajatallapally
+-----
+## Repository
+If you found this project useful, consider giving it a star!
 
