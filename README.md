@@ -1,25 +1,10 @@
-# E-commerce Dynamic Pricing and Elasicity Analytics
+# E-commerce Dynamic Pricing and Elasticity Analytics
+
 ## Project Overview
-This project demonstrates SQL concepts using the Apple products pricing dataset in mySQL workbench.
-## Dataset 
-Apple_products_pricing(2020-2026)
-## Tasks performed
-- Created the database and table
-- Imported and validated data
-- wrote SQL queries for data analysis
-- Used aggregate functions (SUM,AVG,COUNT,MIN,MAX)
-- Applied GROUP BY and ORDER BY
-- Created KPI queries
-- Created SQL views
-- Implemented window functions :
-- ROW_NUMBER()
-- RANK()
-- DENSE_RANK()
-- LAG()
-- LEAD()
-- Running total
-- ## Tools used
-  Mysql workbench
-  github
-  ## Author
-  Shailaja Tallapally
+This project analyzes Apple product pricing data to understand pricing trends, demand elasticity , and business insights using Python, pandas, and MySQL.
+-----
+## Objectives
+- Clean raw pricing data.
+- Perform Exploratory Data Analysis (EDA).
+- Calculate pricing metrics.
+- Analyze
