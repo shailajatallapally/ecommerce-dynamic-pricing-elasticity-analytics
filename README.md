@@ -63,7 +63,7 @@ The dataset contains Apple product information, including:
 - Average current price is lower than the launch price.
 - Most products are in stock.
 - Sale events influence product pricing.
-- 
+ 
 **Shailaja Tallapally**
 
 GitHub:
