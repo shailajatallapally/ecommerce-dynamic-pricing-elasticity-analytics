@@ -25,51 +25,48 @@ The dataset contains Apple product information, including:
 ## Tools & Technologies
 - Python
 - Pandas
+- Numpy
+- Microsoft Excel
 - Matplotlib
 - MySQL workbench
 - SQL
-- Jupyter notebook
-- Git & GitHub
+- Power BI
 -----
-## Project structure
-ecommerce-dynamic-pricing-elasticity-analytics/
-- 01_clean.ipynb
-- Data validation.ipynb
-- EDA Analysis.ipynb
-- apple-products_sql_project.sql
-- README.md
+## Dashboard Pages
+- Overview
+- KPI Cards
+- Products by Category
+- Products by Stock Status
 -----
-## Workflow
-1. Data cleaning
-2. Data validation
-3. Exploratory dta analysis
-4. SQL analysis
-5. Business Insights
+## Trends
+- Average Current Price by Sale Event
+- Products by Category
+- Date Slicer
+- Product Category Slicer
 -----
-SQL concepts Used
-- SELECT
-- WHERE
-- GROUPBY
-- ORDER BY
-- Aggregate Functions
-- CASE WHEN
-- Views
-- Window functions
+## Segments
+- Products by Sale Event
+- Rating by Category
+- Reviews by Product Category
+- Platform Slicer
 -----
-## Key Insights
-- Premium Apple products have higher average prices
-- Discounts vary across product categories
-- Product ratings help identify customer preferences
-- SQL KPIs support pricing and sales analysis.
+## Project Files
+- Python Notebook (.ipynb)
+- SQL Script (.sql)
+- Power BI Dashboard (.pbix)
+- Data Dictionary
+- Cleaning Log
+- Dashboard Documentation
 -----
-## Future Improvements
-- Build an interactive Power BI dashboard
------
-
-## Author
+## Business Insights
+- iPhone has the highest product count.
+- Average current price is lower than the launch price.
+- Most products are in stock.
+- Sale events influence product pricing.
+- 
 **Shailaja Tallapally**
 
-Github:
+GitHub:
 https://github.com/shailajatallapally
 -----
 ## Repository
